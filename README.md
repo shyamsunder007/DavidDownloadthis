@@ -12,3 +12,4 @@ and will u  do the api part in the mrng like  if i call a village id ,i have to 
 and same with all villages and also for a particular farm .it will reflect the same for wells and lands tooo
 
 :)
+and plzz wake me up in the mrng as i frgt my phone in your room :'' i have dcnn class at 9
