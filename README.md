@@ -8,5 +8,7 @@ localhost+/?a=2  for farms
 
 etc..
 and i aded small form when u click on any farm area for any futher changes ...
-and will do the api part in the marng link if i call a village id i have to recevice all the crops cultivated according to the date span mentioned
+and will u  do the api part in the mrng like  if i call a village id ,i have to recevice all the crops cultivated according in the date span mentioned
 and same with all villages and also for a particular farm .it will reflect the same for wells and lands tooo
+
+:)
